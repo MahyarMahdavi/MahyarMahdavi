@@ -4,7 +4,7 @@
 
 ## I'm a Second-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
 
-- 🧠 **I am someone who does not know every question, but I know how to find the their answer.**
+- 🧠 **I am someone who does not know every question, but I know how to find their answer.**
 - 🌱 **Currently focusing on expanding my skills in:**  
   - Python , C , Digital Image Processing, Flutter , and AI & ML development.
 - 👩‍💻 **Actively seeking Co-op and Networking Opportunities for summer 2025.** 
