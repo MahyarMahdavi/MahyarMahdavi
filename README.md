@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=34B7F1&center=true&vCenter=true&width=800&height=90&lines=Hello%2C+I+am+Mahyar!+%F0%9F%91%8B;Welcome+to+my+GitHub+page+%F0%9F%92%BB" alt="Typing Animation">
-</p>
+<h1 align="center">Hello, I am Mahyar 👋</h1>
+<h3 align="center">Welcome to my GitHub page 💻</h3>
 ---
 
 ## I'm a Second-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
