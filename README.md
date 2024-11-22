@@ -7,7 +7,7 @@
 - 🧠 **I am someone who does not know every question, but I know how to find their answer.**
 - 🌱 **Currently focusing on expanding my skills in:**  
   - Python , C , Digital Image Processing, Flutter , and AI & ML development.
-- 👩‍💻 **Actively seeking Co-op and Networking Opportunities for summer 2025.** 
+- 👩‍💻 **Actively seeking Co-op and Internship Opportunities for summer 2025.** 
 - 🦾 **Fun Fact:** Not only do I like tech and software development, I also do like mental and physical development 
 
 ---
