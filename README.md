@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Mahyar 👋</h1>
 <h3 align="center">Welcome to my GitHub page 💻</h3>
----
+
 
 ## I'm a Second-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
 
