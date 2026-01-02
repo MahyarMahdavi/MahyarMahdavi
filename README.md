@@ -2,12 +2,12 @@
 <h3 align="center">Welcome to my GitHub page 💻</h3>
 
 
-## I'm a Second-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
+## I'm a forth-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
 
 - 🧠 **I am someone who does not know every question, but I know how to find their answer.**
 - 🌱 **Currently focusing on expanding my skills in:**  
   - Python , C , Digital Image Processing, Flutter , and AI & ML development.
-- 👩‍💻 **Actively seeking Co-op and Internship Opportunities for summer 2025.** 
+- 👩‍💻 **Actively seeking Co-op and Internship Opportunities for summer 2026.** 
 - 🦾 **Fun Fact:** Not only do I like tech and software development, I also do like mental and physical development 
 
 ---
