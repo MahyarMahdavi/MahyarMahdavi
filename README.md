@@ -4,9 +4,9 @@
 
 ## I'm a forth-year Computer Science student at [Toronto Metropolitan University](https://www.torontomu.ca/)! 🎓
 
-- 🧠 **I am someone who does not know every question, but I know how to find their answer.**
+- 🧠 **I believe that in today’s fast-changing world, it’s impossible for anyone to know everything. What matters is having the curiosity and discipline to continuously learn, adapt, and understand new concepts as technology evolves.**
 - 🌱 **Currently focusing on expanding my skills in:**  
-  - Python , C , Digital Image Processing, Flutter , and AI & ML development.
+  - Python , C , Digital Image Processing, and AI & ML development.
 - 👩‍💻 **Actively seeking Co-op and Internship Opportunities for summer 2026.** 
 - 🦾 **Fun Fact:** Not only do I like tech and software development, I also do like mental and physical development 
 
